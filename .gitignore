@@ -28,6 +28,7 @@ game/*/stats.txt
 game/*/voice_ban.dt
 src/game/client/Release_*/
 src/game/server/Release_*/
+download/depots/
 mapdev/
 decompiled 0.42/
 *.sentinel
