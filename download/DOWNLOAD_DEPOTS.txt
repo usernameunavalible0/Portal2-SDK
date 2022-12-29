@@ -1,2 +1,0 @@
-DepotDownloader.exe -app 730 -depot 731 -manifest 7043469183016184477 -username STEAMUSERNAME -password PASSWORD
-DepotDownloader.exe -app 730 -depot 732 -manifest 4047004309608881181 -username STEAMUSERNAME -password PASSWORD
